@@ -4,7 +4,7 @@
   
 
 ###### O projektu   
-  * [Podmínky užití](terms.html) 
-  * [Bezpečnost dat](security.html)
-  * [Editor](/psychotest/editor.html)
+  * <small> [Podmínky užití](terms.html) </small>
+  * <small> [Bezpečnost dat](security.html) </small>
+  * <small> [Editor](/psychotest/editor.html) </small>
 
